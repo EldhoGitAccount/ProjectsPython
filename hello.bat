@@ -1,3 +1,3 @@
 
-@python C:\Users\HP\source\repos\githubprojects\MyprojectsPython\hello.py %*
+@python C:\Users\HP\source\repos\githubprojects\MyprojectsPython\ProjectsPython\hello.py %*
 @pause
