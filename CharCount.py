@@ -1,4 +1,5 @@
 import pprint
+import pandas
 
 message = 'it was a bright day in June'
 
